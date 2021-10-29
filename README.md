@@ -8,7 +8,7 @@
 <p align="justify">
 
 Este é apenas um resultado prático do uso da API de audio nativo dos browers visando criar uma
-um player de audio. O objetivo foi criar uma aparencia simples, então lembrei da forma de um IPod, principalmente
+um player de audio. O objetivo foi criar uma aparencia simples, então lembrei da forma de um iPod, principalmente
 para servir de desafio de CSS, além disso o IPod é funcional, sendo possivel dar play/pause nas músicas, tambem é possivel interagir com o display fazendo as musicas serem tocas apenas clicando nelas. A parte de front desse app foi **inteiramente construida usando CSS puro**, nenhuma imagem foi utilizada, exceto os icones do para os botoes **prev**, **play/pause** e **next**.
 </p>
 
@@ -16,7 +16,7 @@ para servir de desafio de CSS, além disso o IPod é funcional, sendo possivel d
     <img src="./src/result.png">
     <br>
     <h6>
-        Figure 1 - IPod criado com CSS. Os nomes das musicas
+        Figure 1 - iPod criado com CSS. Os nomes das musicas
         utilizadas são do compositor Kevin MacLeod. Todas disponiveis no <a href="https://www.youtube.com/playlist?list=PLrwYF1Q780z-5naGR0lBXRC-mVfg5OmxI" alt="playlist">youtube</a>
     </h6>
 </div>
