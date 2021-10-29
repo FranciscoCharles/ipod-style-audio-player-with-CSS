@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <h1><b>📱🎵🎧 IPod style audio player with CSS 🎧🎵📱</b></h1>
+  <h1><b>📱🎵🎧 iPod style audio player with CSS 🎧🎵📱</b></h1>
   <h6>by <i>FranciscoCharles</i></h6>
 </p>
 <p align="justify">
