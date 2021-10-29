@@ -17,7 +17,7 @@ para servir de desafio de CSS, além disso o IPod é funcional, sendo possivel d
     <br>
     <h6>
         Figure 1 - iPod criado com CSS. Os nomes das musicas
-        utilizadas são do compositor Kevin MacLeod. Todas disponiveis no <a href="https://www.youtube.com/playlist?list=PLrwYF1Q780z-5naGR0lBXRC-mVfg5OmxI" alt="playlist">youtube</a>
+        utilizadas são do compositor Kevin MacLeod. Todas disponiveis no <a href="https://www.youtube.com/playlist?list=PLrwYF1Q780z-5naGR0lBXRC-mVfg5OmxI" alt="playlist">youtube</a>.
     </h6>
 </div>
 
